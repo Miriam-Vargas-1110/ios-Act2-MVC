@@ -1,6 +1,6 @@
 # ios-Act2-MVC
 {
-  "products": [
+  "Products": [
     {
       "id": 1,
       "title": "Camiseta Oversize Negra",
